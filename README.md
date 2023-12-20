@@ -30,6 +30,7 @@ def circulate():
     print("After circulating the values are:",lst2)
 ```
 ## Output:
-![output](/Screenshot%202023-11-01%20093518.png)
+![image](https://github.com/STANLEY-13/Circulate-the-values-of-N-variables/assets/148198816/991f5761-35fa-4919-b530-4d5f91dedf86)
+
 ## Result:
 Thus the python program for circulate the values of n variables is executed successfully
